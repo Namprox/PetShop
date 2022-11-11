@@ -1,0 +1,3 @@
+# serve custom error pages 
+ErrorDocument 404 /PetShop/404.html
+

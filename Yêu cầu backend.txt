@@ -1,0 +1,19 @@
+Cách tính năng dự kiến cho website
++chung-Người dùng
+	- Đăng kí / Đăng nhập
+	- Tìm kiếm
+	- Phân trang
+	- ds hàng hóa
+	- chi tiết sản phẩm
+	- chi tiết đơn hàng
+	- giỏ hàng
+	- bình luận
++riêng-admin
+	-Thêm xóa sửa sản phẩm/ bình luận / tài khoản đăng kí
+	-Xem chi tiết các đơn hàng của user
+	-upload ảnh
++nâng cao
+	-thống kê 
+	-blog (trình soạn thảo WYSIWYG)
+	
+	
